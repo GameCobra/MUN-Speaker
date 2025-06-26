@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MUN-Speaker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d423c29f05a34e1ad42ea52373a9ab9e6ba2873")]
 [assembly: System.Reflection.AssemblyProductAttribute("MUN-Speaker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MUN-Speaker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

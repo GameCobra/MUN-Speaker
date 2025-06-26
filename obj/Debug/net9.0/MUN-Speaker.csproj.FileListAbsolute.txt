@@ -94,3 +94,4 @@ c:\Users\adria\OneDrive\Documents\MUN-Speaker\obj\Debug\net9.0\refint\MUN-Speake
 c:\Users\adria\OneDrive\Documents\MUN-Speaker\obj\Debug\net9.0\MUN-Speaker.pdb
 C:\Users\adria\OneDrive\Documents\MUN-Speaker\obj\Debug\net9.0\MUN-Speaker.genruntimeconfig.cache
 C:\Users\adria\OneDrive\Documents\MUN-Speaker\obj\Debug\net9.0\ref\MUN-Speaker.dll
+c:\Users\adria\OneDrive\Documents\MUN-Speaker\obj\Debug\net9.0\MUN-Speaker.sourcelink.json
