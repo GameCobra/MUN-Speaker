@@ -17,10 +17,16 @@ public class HelloWorldController : Controller
     return HtmlEncoder.Default.Encode($"Hello {name}, NumTimes is: {numTimes}");
     }
 
+    public IActionResult Welcome(string name, int numTimes = 1)
+    {
+        ViewData["Message"] = "Hello " + name;
+        ViewData["NumTimes"] = numTimes;
+        return View();
+    }
 
     // 
     // GET: /HelloWorld/Welcome/ 
-    public string Welcome(string name, int ID = 1)
+    public string HTMLWelcomEncoder(string name, int ID = 1)
     {
         return HtmlEncoder.Default.Encode($"Hello {name}, ID: {ID}");
     }
